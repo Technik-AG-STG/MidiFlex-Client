@@ -1,2 +1,2 @@
 # MidiFlex-Receiver
-The Official Receiver Client for Windows PCs
+The Official Receive/Send Client for Windows PCs
