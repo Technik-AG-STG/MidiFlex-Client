@@ -1,0 +1,1 @@
+pip install socketio-client==1.7.4
