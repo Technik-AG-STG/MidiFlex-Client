@@ -19,7 +19,6 @@ cd MidiFlex-Client
 - ***In some cases it may be the case that Python modules have to have exactly the same version.***
 
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 
@@ -28,7 +27,6 @@ pip install -r requirements.txt
 Replace 'http://localhost:25550' with the actual URL where your MidiFlex Server is running. Then, run the script:
 
 ```bash
-Copy code
 python app.py
 ```
 
@@ -42,6 +40,6 @@ To gracefully close the connection, press Ctrl+C in the terminal where the scrip
 
 In the future, the midiflex client will be able to receive midi signals and output them virtually, but also send signals back to the server.
 
-### License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
